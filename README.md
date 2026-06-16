@@ -29,7 +29,6 @@ Business Objectives
 3. Evaluate marketing effectiveness
 4. Measure customer loyalty impact
 5. Identify revenue-driving customer segments
-6. Dataset Features
 
 
 
@@ -95,7 +94,7 @@ Purchase patterns and shopping preferences.
 
 
 
-**4. Loyalty \& Marketing Analysis**
+**4. Loyalty & Marketing Analysis**
 
 
 
